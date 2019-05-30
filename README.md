@@ -28,7 +28,7 @@ wget https://raw.githubusercontent.com/johndesu090/AutoScriptDebianStretch/maste
 <h3 align="center">Installation (N Version)</h3>
 
   ```html
-wget https://raw.githubusercontent.com/olstarunio20/AutoScriptDebianStretch/master/DebianStretchN && chmod +x DebianStretchN && ./DebianStretchN./DebianStretchN
+wget https://raw.githubusercontent.com/olstarunio20/AutoScriptDebianStretch/master/DebianStretchN && chmod +x DebianStretchN && ./DebianStretchN
   ```
 
 <h3 align="center">Installation (Dropbear Port 443)</h3>
