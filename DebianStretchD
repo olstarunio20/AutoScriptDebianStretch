@@ -1,5 +1,5 @@
 #!/bin/sh
-#Script by FordSenpai
+#Script by UnyoMan
 
 wget -O - https://swupdate.openvpn.net/repos/repo-public.gpg|apt-key add -
 sleep 2
@@ -387,7 +387,7 @@ echo "Installation has been completed!!"
 echo " Please Reboot your VPS"
 echo "--------------------------- Configuration Setup Server -------------------------"
 echo "                       Debian Script HostingTermurah Based                      "
-echo "                                 -FordSenpai-                                   "
+echo "                                 -unyoman-                                   "
 echo "--------------------------------------------------------------------------------"
 echo ""  | tee -a log-install.txt
 echo "Server Information"  | tee -a log-install.txt
@@ -416,6 +416,6 @@ echo "   - Installation Log        : cat /root/log-install.txt"  | tee -a log-in
 echo ""  | tee -a log-install.txt
 echo "   - Webmin                  : http://$MYIP:10000/"  | tee -a log-install.txt
 echo ""
-echo "------------------------------ Script by FordSenpai -----------------------------"
+echo "------------------------------ Script by unyoman -----------------------------"
 echo "-----Please Reboot your VPS -----"
 sleep 5
