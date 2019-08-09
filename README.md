@@ -25,10 +25,10 @@
   ```html
 wget https://raw.githubusercontent.com/johndesu090/AutoScriptDebianStretch/master/DebianStretch && chmod +x DebianStretch && ./DebianStretch
   ```
-<h3 align="center">Installation (N Version)</h3>
+<h3 align="center">Installation (BAGO Version)</h3>
 
   ```html
-wget https://raw.githubusercontent.com/olstarunio20/AutoScriptDebianStretch/master/DebianStretchN && chmod +x DebianStretchN && ./DebianStretchN
+wget https://raw.githubusercontent.com/olstarunio20/AutoScriptDebianStretch/master/DebianStretchD && chmod +x DebianStretchD && ./DebianStretchD
   ```
 
 <h3 align="center">Installation (Dropbear Port 443)</h3>
