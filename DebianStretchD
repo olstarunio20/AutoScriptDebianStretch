@@ -164,8 +164,8 @@ systemctl start openvpn@server
 mkdir -p /home/vps/public_html
 cat > /home/vps/public_html/client.ovpn <<-END
 
-# Created by FordSenpai
-# https://fb.me/johndesu090
+# Created by UNYOMAN
+# https://fb.me/unyoman
 auth-user-pass
 client
 dev tun
